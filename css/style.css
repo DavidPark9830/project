@@ -26,7 +26,7 @@ ul {
 header{
   width:100%;    /*  너비 */
   height:100px;   /* 높이 */ 
-  background-color: darkslategray;
+  background-color: black;
 }
 
 /* 로고 */
@@ -50,7 +50,7 @@ nav{
   float:right;   /* 오른쪽으로 플로팅 */
   width:900px;   /*   너비 */  
   height:100px;   /* 메뉴 영역 높이 */  
-  padding-top:40px;  /* 메뉴를 아래로 내리기 위해 */  
+  padding-top:20px;  /* 메뉴를 아래로 내리기 위해 */  
 }
 #topMenu {  
   height:60px; 
