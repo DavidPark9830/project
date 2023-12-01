@@ -241,12 +241,15 @@ button:focus {
 
 #quick-icon1 {
   background-image:url('../images/icon-1.jpg'); 
+  background-size: auto;
 }
 #quick-icon2 {
   background-image:url('../images/icon-2.jpg'); 
+  background-size: auto;
 }
 #quick-icon3 {
   background-image:url('../images/icon-3.jpg'); 
+  background-size: auto;
 }
 
 #links ul li a p {
