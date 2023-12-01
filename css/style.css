@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Merienda:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;700&display=swap');
 
 * {
   margin:0;   /* 마진 리셋 */
@@ -13,6 +13,8 @@ ul {
 }
 
 #container {
+  font-family: 'Noto Sans KR', sans-serif;
+  font-weight:400;
   margin:0 auto;  /* 화면 중앙에 배치 */
   width:1200px;    /* 너비 */
 }
@@ -36,7 +38,7 @@ header{
   padding-left:20px;  /* 왼쪽에 여백 */
 }
 #logo h1 {
-  font-family:'Merienda', cursive;
+  font-family: 'Noto Sans KR', sans-serif;
   font-weight:700;
   font-size:40px;   /* 글자 크기 */
   color:#fff;   /* 글자 색*/
