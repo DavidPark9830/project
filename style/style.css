@@ -24,7 +24,7 @@ ul {
 header{
   width:100%;    /*  너비 */
   height:100px;   /* 높이 */ 
-  background-color:#07c;
+  background-color: darkslategray;
 }
 
 /* 로고 */
