@@ -247,12 +247,14 @@ button:focus {
   background-image:url('../images/icon-1.jpg');
   background-size: 100%;
 }
+
 #quick-icon2 {
   background-image:url('../images/icon-2.jpg'); 
   background-size: 100%;
 }
+
 #quick-icon3 {
-  background-image:url('../images/icon-3.jpg');
+  background-image:url('../images/icon-3.jpg'); 
   background-size: 100%;
 }
 
