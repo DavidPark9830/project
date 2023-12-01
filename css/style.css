@@ -206,6 +206,10 @@ button:focus {
   display:inline;  /* 이미지 가로로 배치 */
 }
 
+#gallery ul li img {
+  width: 19%;
+}
+
 #tab1:checked ~ #notice, 
 #tab2:checked ~ #gallery {
   display:block;
@@ -240,16 +244,16 @@ button:focus {
 }
 
 #quick-icon1 {
-  background-image:url('../images/icon-1.jpg'); 
-  background-size: auto;
+  background-image:url('../images/icon-1.jpg');
+  background-size: 100%;
 }
 #quick-icon2 {
   background-image:url('../images/icon-2.jpg'); 
-  background-size: auto;
+  background-size: 100%;
 }
 #quick-icon3 {
-  background-image:url('../images/icon-3.jpg'); 
-  background-size: auto;
+  background-image:url('../images/icon-3.jpg');
+  background-size: 100%;
 }
 
 #links ul li a p {
